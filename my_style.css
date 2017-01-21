@@ -1,0 +1,22 @@
+.navbar-default {
+    background-color: #C3DE54;
+    border-color: yellow;
+}
+
+.navbar-default > brand {
+    color: black;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+figure {
+    display: table;
+    max-width: 100%;
+}
+
+figcaption {
+    display: table-caption;
+    caption-side: bottom;
+}
