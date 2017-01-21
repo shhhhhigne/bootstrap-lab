@@ -11,12 +11,6 @@
     color: white;
 }
 
-figure {
-    display: table;
-    max-width: 100%;
-}
-
-figcaption {
-    display: table-caption;
-    caption-side: bottom;
+#melon-pic {
+    width:100%;
 }
